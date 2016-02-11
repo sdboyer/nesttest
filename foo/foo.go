@@ -10,13 +10,8 @@ import (
 
 func main() {
 	fmt.Println("Hello from foo/main in main area")
-	ohai()
 	DoFooOtherFile()
 	bar.DoBar()
 	baz.DoBaz()
 	quux.DoQuux()
-}
-
-func ohai() {
-	fmt.Println("ohai from main")
 }
