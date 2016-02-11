@@ -46,3 +46,5 @@ Hello from bar in vendor area
 Hello from baz in main area
 Hello from quux in vendor area
 ```
+
+All of this is what we’d want and expect.
